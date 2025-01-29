@@ -7,4 +7,4 @@ Assorted labs for the course
 
 ### Lab 1 First React application
 
-reactOne
+myfirstapp
